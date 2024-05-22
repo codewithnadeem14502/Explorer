@@ -1,4 +1,28 @@
 # Welcome to your Expo app 👋
+# Preview
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>Main Screen</b><br>
+        <img src="https://github.com/codewithnadeem14502/Explorer/assets/105824474/c506dbd6-df6f-4581-bc01-7c2b1e95d22f" alt="Main Screen" width="300" />
+      </td>
+      <td align="center">
+        <b>Details Screen</b><br>
+        <img src="https://github.com/codewithnadeem14502/Explorer/assets/105824474/f1709230-36ed-4ca0-8d4f-e354f4ff15fc" alt="Details Screen" width="300" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+## Demo App Video
+
+https://github.com/codewithnadeem14502/Explorer/assets/105824474/19a6d351-f700-41d1-b308-80a5e6e22b9a
+
+
+
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
